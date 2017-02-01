@@ -1,0 +1,26 @@
+-- Commandes --
+
+Touches du clavier :
+
+- Z : Avancer
+- Q : Aller à droite
+- D : Aller à gauche
+- S : Reculer
+- R : Recharger
+- Espace : Sauter
+
+Souris :
+
+- Bouton gauche : tirer
+
+
+
+-- Informations de jeu --
+
+A chaque pont situé sur la carte de jeu, il existe un point de
+restauration de munitions ou de vie.
+
+-- Informations complémentaires --
+
+Ce jeu est un projet ayant pour but de retranscrire les bases de jeu
+d'un FPS (First Person Shooter, tir à la vue subjectif).
